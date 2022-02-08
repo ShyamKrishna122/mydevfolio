@@ -67842,7 +67842,7 @@ A.pG.prototype={
 F(a,b){return A.qL(new A.vK(null),new A.vL(null),new A.vL(null))}}
 A.vK.prototype={
 am(){var s=t.i
-return new A.Nl(A.ayT(null),A.c(["Flutter - Mobile Development","Flutter - Web Development","UI/UX","Medium Blog Writing","Open Source Project"],s),A.c(["Firebase","MongoDB/Node.js","SQFlite/MySQL","REST APIs"],s),A.c(["$200","$200 - $500","$500 - $1000","$1000+"],s),A.c(["Less than 1 week","Less than 1 month","1-2 Months","More than 2 months"],s),B.n)}}
+return new A.Nl(A.ayT(null),A.c(["Flutter - Mobile Development","Flutter - Web Development","UI/UX","Medium Blog Writing","Open Source Project"],s),A.c(["Firebase","MongoDB/Node.js","SQFlite/MySQL/PostgresQL","REST APIs"],s),A.c(["$200","$200 - $500","$500 - $1000","$1000+"],s),A.c(["Less than 1 week","Less than 1 month","1-2 Months","More than 2 months"],s),B.n)}}
 A.Nl.prototype={
 k(a){this.b3(0)},
 F(a,b){var s,r,q,p,o,n,m,l=this,k=null,j=A.cO(b,t._),i=j.c,h=i?B.h:B.j,g=A.fd(k,A.dZ(B.fP,i?B.K:B.h,35),B.Y,!1,k,k,k,k,k,k,k,k,k,k,k,k,new A.a9u(b),k,k,k,k,k,k),f=A.dZ(B.cZ,B.H,40),e=A.aH(0,50,0),d=A.aS(i?B.j:B.h,32,B.b4,k,k),c=t.X
@@ -68370,7 +68370,7 @@ p=b.G(p).f
 s=q.c?B.h:B.u.h(0,900)
 return A.aq(r,A.ml(A.bc(A.c([new A.bI("Developed in \ud83d\udc99 with ",A.aS(q.c?B.j:B.h,r,B.az,r,r),r,r),A.mT(!1,r,!0,A.bG("Flutter",r,r,r,A.dI(r,r,B.hs,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xs(),r,r,r)],t.X),B.q,B.o,B.Z),r,r),B.k,s,r,r,r,o*0.07,new A.aj(0,o*0.05,0,0),r,r,r,p.a.a)}}
 A.Xs.prototype={
-$0(){return A.hm("https://github.com/mhmzdev/DevFolio")},
+$0(){return A.hm("https://github.com/ShyamKrishna122")},
 $S:0}
 A.qy.prototype={
 am(){return new A.P7(B.n)}}
